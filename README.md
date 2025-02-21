@@ -1,5 +1,5 @@
 Memory Matrix: Icons of Computing
-------------------------------------
+
 
 Introduction
 ------------------------
